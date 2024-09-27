@@ -1,3 +1,7 @@
+[![status](https://img.shields.io/badge/status-under%20development-orange)](https://github.com/cidgoh/HPAI_Contextual_Data_Specification)
+
+**Disclaimer**: This repository is in an early draft stage and is actively being developed. Expect frequent changes, updates, and potentially significant revisions as the project progresses. Feedback and contributions are welcome, but please be aware of the evolving nature of the specification at this stage.
+
 # Minimal Pathogen Agnostic Contextual Data Specification
 This specification comprises an international minimal metadata standard for public health and One Health genomic surveillance,
 reusable across pathogen and project initiatives globally, for use in single isolate as well as metagenomic sequencing.
